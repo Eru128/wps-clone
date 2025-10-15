@@ -186,9 +186,6 @@ line-height: 2;
     line-height: 1.5;
 }
 
-ul{
-    line-height: 1.7;
-}
 ul p:nth-child(even), ul p:nth-child(odd){
     font-weight: bold;
     font-family: tahoma;
@@ -212,6 +209,7 @@ blockquote{
 }
 
 .section5{
+    margin-top: 40px;
     background-color: #0b2833;
     height: 380px;
 }
@@ -233,5 +231,6 @@ text-align: center;
 color: rgba(255, 250, 250, 0.658);
 
 }
+
 
 
